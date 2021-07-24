@@ -1,0 +1,11 @@
+{   "_comment": "array pois pode ter diversos usuarios",
+    "users":[
+        {
+            "login":"teste",
+            "password":"teste",
+            "name":"teste",
+            "acces_token":"liberado"
+        }
+    ],
+    "products":[]
+}
